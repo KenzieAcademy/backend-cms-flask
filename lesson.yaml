@@ -1,0 +1,9 @@
+---
+bookmarks:
+    - title: Evolutionary Database Design
+      url: "https://martinfowler.com/articles/evodb.html"
+    - title: Associative Tables
+      url: "https://docs.sqlalchemy.org/en/latest/orm/basic_relationships.html#association-object"
+    - title: Adjacency Lists
+      url: "https://docs.sqlalchemy.org/en/latest/orm/self_referential.html#adjacency-list-relationships"
+ 
