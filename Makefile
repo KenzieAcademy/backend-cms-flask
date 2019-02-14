@@ -11,6 +11,7 @@ clean:
 	rm -Rf cms.egg-info
 	rm -Rf build
 	rm -Rf dist
+	rm -rf **/*.pyc
 
 install-local:
 	pipenv shell \
