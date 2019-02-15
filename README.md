@@ -16,7 +16,7 @@ the assignment you will understand how to design a data model for you applicatio
 concerns.
 
 The assignment focuses on the design and implementation of a content management system using PostgreSQL and Flask. Most
-web applications have a content management component, so the design and implementation of a content management system 
+web applications have a content management component, so the design and implementation of a content management system
 will touch much of what you'll need in any application. Because web application frameworks typically include a content
 management component, you may or may not need to implement a content management system yourself, but the skills you'll
 learn in this assignment are nearly universally transferable.
@@ -37,4 +37,3 @@ Encrypting Data at Rest
 Serving data with Flask
 1. [sprint-f]()  
 Authentication and Authorization
-
