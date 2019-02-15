@@ -25,6 +25,7 @@ learn in this assignment are nearly universally transferable.
 
 ## Sprints
 
+<<<<<<< HEAD
 1. [sprint-a](https://github.com/KenzieAcademy/backend-cms-flask/blob/sprint-a/instructions/sprint-a.md)  
 Introduction to Database Design
 1. [sprint-b]()  
@@ -38,3 +39,13 @@ Serving data with Flask
 1. [sprint-f]()  
 Authentication and Authorization
 
+=======
+1. [sprint-a]()  
+Introduction to Database Design
+2. [sprint-b]()  
+Database Normalization  
+3. [sprint-c]()  
+Implementing Physical Data Models with SQLAlchemy
+4. [sprint-d]()  
+Serving data with Flask
+>>>>>>> 78823f548b632c79b19be0d4a34aa3d6224284f9
